@@ -9,7 +9,7 @@
     </style>
 
     <style name="FloatingHintStyle" parent="android:TextAppearance">
-        <item name="android:textColor"></item>
+        <item name="android:textColor">#FFFFFFFF</item>
     </style>
 
 </resources>
